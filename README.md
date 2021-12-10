@@ -11,7 +11,7 @@ Este Programa foi criado com a intenção de ajuda com continhas matemáticas em
 (em seguida descompacte a o arquivo na pasta desejada)
 (execute o arquivo e aproveite)
 
-[Download do arquivo.zip](dist/ProjetoCalculadora.zip)
+[Download do arquivo.zip](dist/ProjetoCalculadora.deps.zip)
 Ou se você estiver no Windows, é possivel dar um duplo-clique no ícone do programa.
 dotnet Projeto_calculadora.dll
 
